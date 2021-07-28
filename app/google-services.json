@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1085556656747",
+    "firebase_url": "https://hospi-plus-a1d0e.firebaseio.com",
+    "project_id": "hospi-plus-a1d0e",
+    "storage_bucket": "hospi-plus-a1d0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085556656747:android:57c44249349cc676cc3f2e",
+        "android_client_info": {
+          "package_name": "com.jadoo.risha.hospi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085556656747-dhoipm4qqbge267n8kfckiojvmqn76f4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jadoo.risha.hospi",
+            "certificate_hash": "2c61b9ec9bebffd8a6940dbcea0d06abc908e4c6"
+          }
+        },
+        {
+          "client_id": "1085556656747-16lgk6lgpfsooldi9b9puf8vqpbre1g3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiQHV9jZQ6_olUgakKdlw6HVIT69-VNfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085556656747-16lgk6lgpfsooldi9b9puf8vqpbre1g3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
